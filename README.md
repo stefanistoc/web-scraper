@@ -8,7 +8,7 @@
 - You can find her github [here](https://github.com/kubowania)
    
  - And her YouTube channel [here](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw)
-   I have taken [this tutorial](https://www.youtube.com/watch?v=-3lqUHeZs_0) and I replaced the website to scan
+- I have taken [this tutorial](https://www.youtube.com/watch?v=-3lqUHeZs_0) and I replaced the website to scan
 
 # How to run it
  
